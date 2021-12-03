@@ -1,4 +1,4 @@
-![Build Status](https://app.travis-ci.com/Sampath-Nuthalapati1/NextFlood-COSC-4353.svg?branch=main)
+[![Build Status](https://app.travis-ci.com/Sampath-Nuthalapati1/NextFlood-COSC-4353.svg?branch=main)](https://app.travis-ci.com/github/Sampath-Nuthalapati1/NextFlood-COSC-4353)
 
 # NextFlood-COSC-4353
 
